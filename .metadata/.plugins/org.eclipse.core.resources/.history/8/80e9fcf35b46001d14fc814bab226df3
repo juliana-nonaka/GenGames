@@ -1,0 +1,5 @@
+package com.generation.gengames.repository;
+
+public interface CategoriaRepository {
+
+}
